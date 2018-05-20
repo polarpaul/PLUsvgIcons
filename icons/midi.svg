@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="46" height="40" viewBox="0, 0, 46, 40">
+  <g id="all">
+    <path d="M17,32 C9.888,32 9,28.218 9,21.025" fill-opacity="0" stroke="#FFFFFF" stroke-width="0.5"/>
+    <path d="M9,21.025 C9,13.831 14.888,8 22,8" fill-opacity="0" stroke="#FFFFFF" stroke-width="0.5"/>
+    <path d="M22,8 C29.112,8 37,13.831 37,21.025" fill-opacity="0" stroke="#FFFFFF" stroke-width="0.5"/>
+    <path d="M37,21.025 C37,28.218 36.112,32 29,32" fill-opacity="0" stroke="#FFFFFF" stroke-width="0.5"/>
+    <path d="M17,32 C19,23 27,23.881 29,31.881" fill-opacity="0" stroke="#FFFFFF" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M17,32 L29,32" fill="#000000"/>
+    <path d="M29,32 L29,35" fill="#000000"/>
+    <path d="M29,35 L17,35" fill="#000000"/>
+    <path d="M17,35 L17,32" fill="#000000"/>
+  </g>
+  <g id="pins">
+    <path d="M22.772,13.543 C21.793,13.543 21,12.75 21,11.772 C21,10.793 21.793,10 22.772,10 C23.75,10 24.543,10.793 24.543,11.772 C24.543,12.75 23.75,13.543 22.772,13.543 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="0.605"/>
+    <path d="M27.772,15.543 C26.793,15.543 26,14.75 26,13.772 C26,12.793 26.793,12 27.772,12 C28.75,12 29.543,12.793 29.543,13.772 C29.543,14.75 28.75,15.543 27.772,15.543 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="0.605"/>
+    <path d="M31.772,19.543 C30.793,19.543 30,18.75 30,17.772 C30,16.793 30.793,16 31.772,16 C32.75,16 33.543,16.793 33.543,17.772 C33.543,18.75 32.75,19.543 31.772,19.543 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="0.605"/>
+    <path d="M17.772,15.543 C16.793,15.543 16,14.75 16,13.772 C16,12.793 16.793,12 17.772,12 C18.75,12 19.543,12.793 19.543,13.772 C19.543,14.75 18.75,15.543 17.772,15.543 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="0.605"/>
+    <path d="M13.772,19.543 C12.793,19.543 12,18.75 12,17.772 C12,16.793 12.793,16 13.772,16 C14.75,16 15.543,16.793 15.543,17.772 C15.543,18.75 14.75,19.543 13.772,19.543 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="0.605"/>
+  </g>
+</svg>

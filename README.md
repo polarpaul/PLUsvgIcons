@@ -1,1 +1,1 @@
-# PLUsvgIcons
+Icons in svg format for use in Audulus 3. These are not created not endorsed by the Audulus developer.

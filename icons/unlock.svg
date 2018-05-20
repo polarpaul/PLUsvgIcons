@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="23" height="23" viewBox="0, 0, 23, 23">
+  <g id="unlock">
+    <path d="M17.734,13.332 C15.606,13.332 13.881,11.612 13.881,9.491 C13.881,7.37 15.606,5.65 17.734,5.65 C19.861,5.65 21.586,7.37 21.586,9.491 C21.586,11.612 19.861,13.332 17.734,13.332 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="1"/>
+    <g>
+      <path d="M12.409,9.876 L22.239,9.876 L22.239,13.705 L12.409,13.705 z" fill="#000000"/>
+      <path d="M12.409,9.876 L22.239,9.876 L22.239,13.705 L12.409,13.705 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g>
+      <path d="M17.301,11.02 L17.347,11.02 L17.347,13.705 L17.301,13.705 z" fill="#000000"/>
+      <path d="M17.301,11.02 L17.347,11.02 L17.347,13.705 L17.301,13.705 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <path d="M9.644,9.479 L13.356,9.479 C15.013,9.479 16.356,10.822 16.356,12.479 L16.356,17.639 C16.356,19.296 15.013,20.639 13.356,20.639 L9.644,20.639 C7.987,20.639 6.644,19.296 6.644,17.639 L6.644,12.479 C6.644,10.822 7.987,9.479 9.644,9.479 z" fill-opacity="0" stroke="#FFFFFF" stroke-width="1"/>
+  </g>
+</svg>
